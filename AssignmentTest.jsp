@@ -10,7 +10,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Insert title here</title>
- <script type="text/javascript" src="/AssignmentTest/JS/json2.js"></script>
+ <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/json2/20160511/json2.min.js"></script>
 <script>  
 
            function On_Submit() {
